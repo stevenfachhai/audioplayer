@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "352746328471",
+    "project_id": "mp3-player-mara",
+    "storage_bucket": "mp3-player-mara.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:352746328471:android:b2838342f3e8125241f4d2",
+        "android_client_info": {
+          "package_name": "com.example.audioplayer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "352746328471-aajf9c2r7k9a7gllqslevkespcakiec5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAx1aIEJ5DiUw9WtPPnTKuLLSd-cWbrYu4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "352746328471-aajf9c2r7k9a7gllqslevkespcakiec5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
